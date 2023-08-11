@@ -1,1 +1,1 @@
-# Quick Notes Extension##
+# Quick Notes Extension
